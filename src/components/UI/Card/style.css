@@ -1,0 +1,27 @@
+.card {
+  width: 100%;
+  background-color: #fff;
+  border: 1px solid #cecece;
+  box-shadow: 0 1px 1px 0 rgb(0 0 0 / 16%);
+  overflow: hidden;
+}
+
+.cardHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 1px solid #cecece;
+}
+
+.card + .card {
+  margin-top: 5px;
+}
+
+.btn {
+  padding: 8px 12px;
+  background-color: #2874f0;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+}

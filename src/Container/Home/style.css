@@ -1,0 +1,10 @@
+.homeProductWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.homeContainer {
+  padding: 20px 0;
+}

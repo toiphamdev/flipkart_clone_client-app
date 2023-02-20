@@ -1,0 +1,15 @@
+.orderPageContainer {
+  padding: 20px;
+}
+
+.orderItemContainer {
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+  padding: 12px 24px;
+}
+
+.orderItemTitleBox {
+  display: flex;
+  /* align-items: center; */
+}
